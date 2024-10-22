@@ -25,7 +25,7 @@ line_style = {'MALE':'solid',
               'FEMALE':'dot'}
 
 app.layout = html.Div([html.H1('Top Ranked Baby Names in New York City (NYC)'),
-                      html.A("Click to return to Data Insights Journal", href="https://joash.pages.dev",
+                      html.A("Click to return to Data Insights Journal", href="https://joash.pages.dev/posts/baby-names/",
                              style={'color': 'blue', 'text-decoration': 'none'}),
                         html.Br(),
                         html.Br(),
